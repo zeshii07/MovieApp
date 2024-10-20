@@ -61,7 +61,7 @@ export default function Weather() {
             className="bg-blue-900 text-white m-4 rounded-2xl shadow-lg text-xl p-2"
             onClick={handleSearch}
           >
-            Check Whether
+            Check Weather
           </button>
         </div>
       </div>

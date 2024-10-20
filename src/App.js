@@ -1,14 +1,14 @@
 
 import './App.css';
 import Navbar from './components/Navbar';
-import Whether from './components/Whether';
+import Weather from './components/Weather';
 
 function App() {
   return (
     
     <>
     <Navbar/>
-    <Whether/>
+    <Weather/>
     </>
   );
 }

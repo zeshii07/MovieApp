@@ -1,5 +1,5 @@
 {
-  "homepage": "https://zeshii07.github.io/WhetherApp2",
+  "homepage": "https://zeshii07.github.io/WhetherApp",
   "name": "your-react-app",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
